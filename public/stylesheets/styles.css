@@ -1,0 +1,9 @@
+body{
+  background-color: lightblue;
+}
+
+.fun-image{
+  width: 20em;
+  display: block;
+  margin: 5em;
+}
